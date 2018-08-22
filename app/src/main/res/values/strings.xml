@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IntentSample</string>
+    <string name="Next_web">WebViewへ</string>
+</resources>
